@@ -1,0 +1,12 @@
+[package]
+name = "indexed_string"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+keywords = ["Unicode", "Utility"]
+homepage = "https://github.com/ObjectiveCharm/indexed_string"
+authors = ["ObjectiveCharm@protonmail.com"]
+description = "A naive implementation for rust's string to support index, works with unicode in O(n) time."
+
+
+[dependencies]
