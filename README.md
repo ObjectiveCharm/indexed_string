@@ -38,7 +38,7 @@ assert_eq!(indexed_string[1], "t");
 indexed_string[0] = "s";
 
 /// Get modified new string
-println!("{}", indexed_string.to_string);
+println!("{}", indexed_string.to_string());
 
 ```
 
