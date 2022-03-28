@@ -1,4 +1,5 @@
-
+__⚠️⚠️This crate is just a practice work with not taking grapheme cluster into consideration and will have undefined behaviour when try to convert from string has grapheme clusters__
+__Sadly,I have no idea how to recognize boundary of grapheme clusters__
 ## Indexing UTF-8 String
 
 Rust's stdlib does not support index and access string with vec-like subscript syntax.
